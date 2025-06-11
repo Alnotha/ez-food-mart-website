@@ -274,7 +274,9 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h3 className="text-3xl font-bold text-gray-900 mb-4">This Month's Promotions</h3>
-            <p className="text-lg text-gray-600">Don't miss out on our amazing deals and special offers, Ask store clerk for more info!</p>
+            <p className="text-lg text-gray-600">Don't miss out on our amazing deals and special offers, Ask store clerk for more info!
+
+            </p>
           </div>
           {/* 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -326,10 +328,9 @@ function App() {
               </div>
               <Quote className="h-8 w-8 text-teal-400 mb-3" />
               <p className="text-gray-700 mb-4 italic">
-                "EZ Food Mart is my go-to spot for everything! The staff is always friendly,
-                and they have the best prices in the area. Love the convenience!"
+                "I am extremely happy about my experience here! From the moment I walked in, the space was clean and organized and there was a tangle of products for me to choose from. On top of that the prices are reasonable and budget friendly! Do recommend!"
               </p>
-              <div className="font-semibold text-gray-900">- Sarah M.</div>
+              <div className="font-semibold text-gray-900">- Zanir H.</div>
               <div className="text-sm text-gray-600">Friendswood Resident</div>
             </div>
 
@@ -343,10 +344,9 @@ function App() {
               </div>
               <Quote className="h-8 w-8 text-emerald-400 mb-3" />
               <p className="text-gray-700 mb-4 italic">
-                "Great selection and always clean! I stop by every morning for my coffee
-                and they remember exactly how I like it. Excellent customer service!"
+                "La tienda aquí está bastante limpia y nunca he tenido problemas con el personal. Han sido muy acogedores conmigo y mis compañeros de trabajo. Además de tener todo lo que normalmente debería tener una tienda de conveniencia, también tienen amplias categorías de ropa, sombreros e incluso mercancía. Me gusta venir aquí porque está cerca de donde normalmente trabajo."
               </p>
-              <div className="font-semibold text-gray-900">- Michael R.</div>
+              <div className="font-semibold text-gray-900">- Raul L.</div>
               <div className="text-sm text-gray-600">Regular Customer</div>
             </div>
 
@@ -360,10 +360,9 @@ function App() {
               </div>
               <Quote className="h-8 w-8 text-cyan-400 mb-3" />
               <p className="text-gray-700 mb-4 italic">
-                "Perfect location and hours! Whether it's early morning or late evening,
-                they're always open when I need them. A true neighborhood gem!"
+                "Great store & management. Always a pleasure visiting this store!"
               </p>
-              <div className="font-semibold text-gray-900">- Jennifer L.</div>
+              <div className="font-semibold text-gray-900">- Aarzoo M.</div>
               <div className="text-sm text-gray-600">Local Mom</div>
             </div>
           </div>
