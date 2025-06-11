@@ -222,16 +222,16 @@ function App() {
           <div className="grid md:grid-cols-3 gap-6">
             <div
               className="relative overflow-hidden rounded-lg shadow-lg cursor-pointer"
-              onClick={() => openImagePopup(productImages.groceries, "Fresh Groceries")}
+              onClick={() => openImagePopup(productImages.groceries, "Groceries")}
             >
               <img
-                src="https://ugc.same-assets.com/3JBFH_UXiTUUsiGVPSv5ANqqfHoxTESh.jpeg"
+                src="https://lh3.googleusercontent.com/p/AF1QipNw2lXPc30Z81Izucg-mDRa4hoVJr2k97OQ_qVP=s1360-w1360-h1020-rw"
                 alt="Well-stocked grocery store shelves with various products"
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
               <div className="absolute bottom-4 left-4 text-white">
-                <h4 className="font-semibold">Fresh Groceries</h4>
+                <h4 className="font-semibold">Groceries</h4>
                 <p className="text-sm">Click to view gallery</p>
               </div>
             </div>
@@ -240,7 +240,7 @@ function App() {
               onClick={() => openImagePopup(productImages.snacks, "Snacks & Drinks")}
             >
               <img
-                src="https://ugc.same-assets.com/QOiz6eYyAT7OEk63PTRXBrDc6_prNrH-.jpeg"
+                src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomRmpNEa_DZHeK6bpKFVW83rEXDKgo5kCc-zIy0fuHpO5XRvn8NUmpM974eLg4M6FaXZ88yjrdL1mzcXkHc2Nl7A3xqzd3Yf7Mo_zI4h29fsNfZOKONMkMsOIn32g6ArOe-cKE=s1360-w1360-h1020-rw"
                 alt="Convenience store snack and beverage section"
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -255,7 +255,7 @@ function App() {
               onClick={() => openImagePopup(productImages.checkout, "Quick Checkout")}
             >
               <img
-                src="https://ugc.same-assets.com/GbaF-H7agAYTfXfUWmlE6I7cpJQ9GOhE.jpeg"
+                src="https://lh3.googleusercontent.com/p/AF1QipOyHHwxMwBr59__Et9zqTZEQQv1-W8JOR0-T7M1=s1360-w1360-h1020-rw"
                 alt="Convenience store checkout area with various products"
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -274,8 +274,8 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h3 className="text-3xl font-bold text-gray-900 mb-4">This Month's Promotions</h3>
-            <p className="text-lg text-gray-600">Don't miss out on our amazing deals and special offers!</p>
-          </div>
+            <p className="text-lg text-gray-600">Don't miss out on our amazing deals and special offers, Ask store clerk for more info!</p>
+          {/* </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-gradient-to-br from-teal-50 to-cyan-50 p-6 rounded-lg shadow-md border-l-4 border-teal-500">
               <div className="flex items-center mb-4">
@@ -304,7 +304,7 @@ function App() {
               <p className="text-sm text-cyan-600 font-medium">All day special</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
 
       {/* Customer Testimonials Section */}
