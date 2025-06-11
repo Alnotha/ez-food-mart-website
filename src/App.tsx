@@ -360,9 +360,9 @@ function App() {
               </div>
               <Quote className="h-8 w-8 text-cyan-400 mb-3" />
               <p className="text-gray-700 mb-4 italic">
-                "Great store & management. Always a pleasure visiting this store!"
+                "I’ve been coming here regularly, and I’m always impressed with how neat and welcoming the store is. The staff is super kind and helpful, and I never have trouble finding what I need. Prices are great too!"
               </p>
-              <div className="font-semibold text-gray-900">- Aarzoo M.</div>
+              <div className="font-semibold text-gray-900">- Ali Q.</div>
               <div className="text-sm text-gray-600">Friendswood Resident</div>
             </div>
           </div>
