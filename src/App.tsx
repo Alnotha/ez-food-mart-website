@@ -24,16 +24,16 @@ function App() {
   // Sample images for each section (you can replace these with uploaded images)
   const productImages = {
     groceries: [
-      "https://ugc.same-assets.com/3JBFH_UXiTUUsiGVPSv5ANqqfHoxTESh.jpeg",
-      "https://ugc.same-assets.com/RNh860c8Cvu1AaVClBkfIXDkdWFnZ2s9.jpeg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjw0o3fyNflD068W_vMVBzM71R-pE82BTYycpYEiOcdZhPr5YpNLUYHGp6jnCUOITn1VkhXc35GtE_yDJSHe8LWstUVnM1jZpX7OZzBXCc841m4QENtlcI8HeYI__R3fBA72uc=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/p/AF1QipNw2lXPc30Z81Izucg-mDRa4hoVJr2k97OQ_qVP=s1360-w1360-h1020-rw"
     ],
     snacks: [
-      "https://ugc.same-assets.com/QOiz6eYyAT7OEk63PTRXBrDc6_prNrH-.jpeg",
-      "https://ugc.same-assets.com/_9zN5M1uEEjb5Z05Z5YMwD9CkRo3fkgZ.jpeg"
+      "https://lh3.googleusercontent.com/p/AF1QipP3k3mttLPVpgddILH19QvVtttF0upnlJxgk2hv=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/p/AF1QipNC3Zc_xsYOYlqVZ186hKuyMCZlVOojyPwlTP7Y=s1360-w1360-h1020-rw"
     ],
     checkout: [
-      "https://ugc.same-assets.com/GbaF-H7agAYTfXfUWmlE6I7cpJQ9GOhE.jpeg",
-      "https://ugc.same-assets.com/xu853-Y9C1fa2rtPOAcS_Kwid0Ca6utP.jpeg"
+      "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvSIAjpwmUXbF-FUaC4k8VIBv3YugfrhMSfrUzp6GjPT9e1BadlpS5pJewz4I4RgngoV2i_GSdxcwydKnTW3arVdm8t_9eHxuXbuw24PxYA_UnhigXxPKDwAE4EGkxhBtZbzX99g=s1360-w1360-h1020-rw",
+      "https://lh3.googleusercontent.com/p/AF1QipOyHHwxMwBr59__Et9zqTZEQQv1-W8JOR0-T7M1=s1360-w1360-h1020-rw"
     ]
   };
 
