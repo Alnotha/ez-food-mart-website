@@ -363,7 +363,7 @@ function App() {
                 "Great store & management. Always a pleasure visiting this store!"
               </p>
               <div className="font-semibold text-gray-900">- Aarzoo M.</div>
-              <div className="text-sm text-gray-600">Local Mom</div>
+              <div className="text-sm text-gray-600">Friendswood Resident</div>
             </div>
           </div>
         </div>
@@ -412,7 +412,7 @@ function App() {
               <h4 className="text-xl font-semibold mb-4">Easy to Find</h4>
               <div className="mb-6">
                 <img
-                  src="https://ugc.same-assets.com/xu853-Y9C1fa2rtPOAcS_Kwid0Ca6utP.jpeg"
+                  src="https://lh3.googleusercontent.com/p/AF1QipO2merWfQisTIuQrxEUBBhurp3PuBVxksUG0mA6=s1360-w1360-h1020-rw"
                   alt="Modern convenience store exterior"
                   className="w-full h-48 object-cover rounded-lg shadow-md"
                 />
