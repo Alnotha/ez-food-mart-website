@@ -275,7 +275,8 @@ function App() {
           <div className="text-center mb-16">
             <h3 className="text-3xl font-bold text-gray-900 mb-4">This Month's Promotions</h3>
             <p className="text-lg text-gray-600">Don't miss out on our amazing deals and special offers, Ask store clerk for more info!</p>
-          {/* </div>
+          </div>
+          {/* 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-gradient-to-br from-teal-50 to-cyan-50 p-6 rounded-lg shadow-md border-l-4 border-teal-500">
               <div className="flex items-center mb-4">
@@ -303,8 +304,8 @@ function App() {
               <p className="text-gray-700 mb-3">Sandwich + drink + chips for $7.99</p>
               <p className="text-sm text-cyan-600 font-medium">All day special</p>
             </div>
-          </div>
-        </div> */}
+          </div>*/}
+        </div> 
       </section>
 
       {/* Customer Testimonials Section */}
