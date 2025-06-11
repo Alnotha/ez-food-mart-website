@@ -141,7 +141,7 @@ function App() {
             </div>
             <div className="relative">
               <img
-                src="https://ugc.same-assets.com/IgarCQHBBVKgfOagKRU8RMVOUs1q2n85.jpeg"
+                src="https://lh3.googleusercontent.com/p/AF1QipO2merWfQisTIuQrxEUBBhurp3PuBVxksUG0mA6=s1360-w1360-h1020-rw"
                 alt="Modern convenience store interior with well-organized shelves"
                 className="rounded-lg shadow-xl w-full h-96 object-cover"
               />
