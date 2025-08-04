@@ -3,6 +3,7 @@ import { MapPin, Phone, Clock, ShoppingBag, Coffee, Sandwich, Battery, Car, Menu
 import { Analytics } from '@vercel/analytics/react';
 
 function App() {
+  <Analytics />
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [imagePopup, setImagePopup] = useState<{ isOpen: boolean; images: string[]; title: string }>({
     isOpen: false,
