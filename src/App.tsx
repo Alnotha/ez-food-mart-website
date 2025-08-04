@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { MapPin, Phone, Clock, ShoppingBag, Coffee, Sandwich, Battery, Car, Menu, X, Star, Quote, Tag, Calendar } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
