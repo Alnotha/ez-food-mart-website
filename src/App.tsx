@@ -242,7 +242,7 @@ function App() {
               onClick={() => openImagePopup(productImages.snacks, "Snacks & Drinks")}
             >
               <img
-                src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomRmpNEa_DZHeK6bpKFVW83rEXDKgo5kCc-zIy0fuHpO5XRvn8NUmpM974eLg4M6FaXZ88yjrdL1mzcXkHc2Nl7A3xqzd3Yf7Mo_zI4h29fsNfZOKONMkMsOIn32g6ArOe-cKE=s1360-w1360-h1020-rw"
+                src="https://lh3.googleusercontent.com/p/AF1QipP3k3mttLPVpgddILH19QvVtttF0upnlJxgk2hv=s1360-w1360-h1020-rw"
                 alt="Convenience store snack and beverage section"
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
