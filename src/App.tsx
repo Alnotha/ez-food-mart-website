@@ -181,10 +181,10 @@ function App() {
             </div>
             <div className="text-center">
               <div className="bg-cyan-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                <MapPin className="h-8 w-8 text-cyan-600" />
+                <Star className="h-8 w-8 text-cyan-600" />
               </div>
-              <h4 className="text-xl font-semibold mb-2">Prime Location</h4>
-              <p className="text-gray-600">Easy to find on Friendswood Link Road with ample parking</p>
+              <h4 className="text-xl font-semibold mb-2">100+ Lottery Tickets</h4>
+              <p className="text-gray-600">Wide selection of lottery tickets with multiple winners! Try your luck today</p>
             </div>
           </div>
         </div>
@@ -276,8 +276,8 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h3 className="text-3xl font-bold text-gray-900 mb-4">This Month's Promotions</h3>
-            <p className="text-lg text-gray-600">Don't miss out on our amazing deals and special offers, Ask store clerk for more info!
-
+            <p className="text-2xl font-semibold text-teal-700 bg-gradient-to-r from-teal-50 via-cyan-50 to-teal-50 p-6 rounded-lg border-2 border-teal-200 shadow-md max-w-3xl mx-auto">
+              Don't miss out on our amazing deals and special offers! Ask store clerk for more info!
             </p>
           </div>
           {/* 
