@@ -404,7 +404,7 @@ function App() {
                       <p>Friday: 5:00 AM - 12:00 AM</p>
                       <p>Saturday: 7:00 AM - 12:00 AM</p>
                       <p>Sunday: 7:00 AM - 12:00 AM</p>
-                      <p className="text-sm mt-2 text-gray-500">*Hours may vary on holidays</p>
+                      <p className="text-sm mt-2 text-gray-500">*Hours DO NOT vary on holidays, see you soon!</p>
                     </div>
                   </div>
                 </div>
