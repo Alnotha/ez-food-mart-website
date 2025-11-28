@@ -218,51 +218,39 @@ function App() {
             </div>
           </div>
 
-          {/* Product Images with Popup */}
+          {/* Product Images */}
           <div className="grid md:grid-cols-3 gap-6">
-            <div
-              className="relative overflow-hidden rounded-lg shadow-lg cursor-pointer"
-              onClick={() => openImagePopup(productImages.groceries, "Groceries")}
-            >
+            <div className="relative overflow-hidden rounded-lg shadow-lg">
               <img
                 src="https://lh3.googleusercontent.com/p/AF1QipNw2lXPc30Z81Izucg-mDRa4hoVJr2k97OQ_qVP=s1360-w1360-h1020-rw"
                 alt="Well-stocked grocery store shelves with various products"
-                className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+                className="w-full h-48 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
               <div className="absolute bottom-4 left-4 text-white">
                 <h4 className="font-semibold">Groceries</h4>
-                <p className="text-sm">Click to view gallery</p>
               </div>
             </div>
-            <div
-              className="relative overflow-hidden rounded-lg shadow-lg cursor-pointer"
-              onClick={() => openImagePopup(productImages.snacks, "Snacks & Drinks")}
-            >
+            <div className="relative overflow-hidden rounded-lg shadow-lg">
               <img
                 src="https://lh3.googleusercontent.com/p/AF1QipP3k3mttLPVpgddILH19QvVtttF0upnlJxgk2hv=s1360-w1360-h1020-rw"
                 alt="Convenience store snack and beverage section"
-                className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+                className="w-full h-48 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
               <div className="absolute bottom-4 left-4 text-white">
                 <h4 className="font-semibold">Snacks & Drinks</h4>
-                <p className="text-sm">Click to view gallery</p>
               </div>
             </div>
-            <div
-              className="relative overflow-hidden rounded-lg shadow-lg cursor-pointer"
-              onClick={() => openImagePopup(productImages.checkout, "Quick Checkout")}
-            >
+            <div className="relative overflow-hidden rounded-lg shadow-lg">
               <img
                 src="https://lh3.googleusercontent.com/p/AF1QipOyHHwxMwBr59__Et9zqTZEQQv1-W8JOR0-T7M1=s1360-w1360-h1020-rw"
                 alt="Convenience store checkout area with various products"
-                className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
+                className="w-full h-48 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
               <div className="absolute bottom-4 left-4 text-white">
                 <h4 className="font-semibold">Quick Checkout</h4>
-                <p className="text-sm">Click to view gallery</p>
               </div>
             </div>
           </div>
