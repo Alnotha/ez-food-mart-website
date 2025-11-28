@@ -397,13 +397,13 @@ function App() {
                   <div>
                     <p className="font-semibold">Store Hours</p>
                     <div className="text-gray-600 space-y-1">
-                      <p>Monday: 6:00 AM - 11:00 PM</p>
-                      <p>Tuesday: 6:00 AM - 11:00 PM</p>
-                      <p>Wednesday: 6:00 AM - 11:00 PM</p>
-                      <p>Thursday: 6:00 AM - 11:00 PM</p>
-                      <p>Friday: 6:00 AM - 12:00 AM</p>
-                      <p>Saturday: 6:00 AM - 12:00 AM</p>
-                      <p>Sunday: 7:00 AM - 11:00 PM</p>
+                      <p>Monday: 5:00 AM - 12:00 AM</p>
+                      <p>Tuesday: 5:00 AM - 12:00 AM</p>
+                      <p>Wednesday: 5:00 AM - 12:00 AM</p>
+                      <p>Thursday: 5:00 AM - 12:00 AM</p>
+                      <p>Friday: 5:00 AM - 12:00 AM</p>
+                      <p>Saturday: 7:00 AM - 12:00 AM</p>
+                      <p>Sunday: 7:00 AM - 12:00 AM</p>
                       <p className="text-sm mt-2 text-gray-500">*Hours may vary on holidays</p>
                     </div>
                   </div>
@@ -460,9 +460,8 @@ function App() {
             <div>
               <h5 className="text-lg font-semibold mb-4">Store Hours</h5>
               <div className="text-gray-400 text-sm space-y-1">
-                <p>Mon-Thu: 6:00 AM - 11:00 PM</p>
-                <p>Fri-Sat: 6:00 AM - 12:00 AM</p>
-                <p>Sunday: 7:00 AM - 11:00 PM</p>
+                <p>Mon-Fri: 5:00 AM - 12:00 AM</p>
+                <p>Sat-Sun: 7:00 AM - 12:00 AM</p>
                 <p className="text-xs mt-2">*Hours may vary on holidays</p>
               </div>
             </div>
