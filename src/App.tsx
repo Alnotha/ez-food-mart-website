@@ -122,8 +122,7 @@ function App() {
                 Welcome to <span className="text-cyan-200">EZ Food Mart</span>
               </h2>
               <p className="text-xl mb-8 text-teal-100">
-                Welcome to the heart of Friendswood's community! We're your destination for quick snacks, daily essentials, and the friendliest service in town. More than just a convenience store, we're your local haven offering the lowest prices in the area, 100+ lottery tickets with multiple winners, and consistent hours every day - even on holidays. Stop by and experience the difference!
-              </p>
+                Welcome to the heart of Friendswood's community! More than just a convenience store, we're your local haven offering the lowest prices in the area, 100+ lottery tickets with multiple winners, and consistent hours every day - even on holidays! Stop by and experience the difference :)              </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <button
                   onClick={openDirections}
